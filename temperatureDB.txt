@@ -1,0 +1,7 @@
+Temperature Recording for WCM555 project
+
+16.1
+16.1
+18.9
+20.1*
+20.5*
